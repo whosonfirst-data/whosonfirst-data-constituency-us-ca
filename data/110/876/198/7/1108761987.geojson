@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 29",
     "uscensus:sldust":"029",
     "uscensus:statefp":"06",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637
+    ],
     "wof:breaches":[],
+    "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486070,
     "wof:geomhash":"fbe63ba6c9fc3bdfceb388f4579675d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688637
+        }
+    ],
     "wof:id":1108761987,
     "wof:lastmodified":1481486070,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688637,
     "wof:repo":"whosonfirst-data-constituency-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],

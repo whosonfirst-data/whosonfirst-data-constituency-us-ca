@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Assembly District 29",
     "uscensus:sldlst":"029",
     "uscensus:statefp":"06",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637
+    ],
     "wof:breaches":[],
+    "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486021,
     "wof:geomhash":"bf35c56ce5e02e43a73a8786d98d4032",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688637
+        }
+    ],
     "wof:id":1108761807,
     "wof:lastmodified":1481486021,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688637,
     "wof:repo":"whosonfirst-data-constituency-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],

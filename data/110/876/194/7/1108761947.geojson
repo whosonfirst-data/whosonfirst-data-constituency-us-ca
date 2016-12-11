@@ -26,6 +26,7 @@
     "uscensus:statefp":"06",
     "wof:belongsto":[],
     "wof:breaches":[],
+    "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486056,
     "wof:geomhash":"a0189cbe5029e8e7764b628876b72ee5",

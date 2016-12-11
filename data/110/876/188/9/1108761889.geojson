@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Assembly District 65",
     "uscensus:sldlst":"065",
     "uscensus:statefp":"06",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637
+    ],
     "wof:breaches":[],
+    "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486034,
     "wof:geomhash":"ca7cfbfc1c6ac66f16413431e1ed7555",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688637
+        }
+    ],
     "wof:id":1108761889,
     "wof:lastmodified":1481486034,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688637,
     "wof:repo":"whosonfirst-data-constituency-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],

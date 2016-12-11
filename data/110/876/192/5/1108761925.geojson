@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 1",
     "uscensus:sldust":"001",
     "uscensus:statefp":"06",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637
+    ],
     "wof:breaches":[],
+    "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486046,
     "wof:geomhash":"7448e56a62c13b6fb6c2cabc7eb9c2e9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688637
+        }
+    ],
     "wof:id":1108761925,
     "wof:lastmodified":1481486046,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688637,
     "wof:repo":"whosonfirst-data-constituency-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
